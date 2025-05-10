@@ -1,4 +1,4 @@
-# guusibot.io
+# Guus iBot
 1
 ```
 https://www.satprice.live/
