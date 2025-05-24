@@ -1,6 +1,8 @@
 # Sapibot
 # https://www.thewayofcode.com
 
+Sapibot kedepannya melayani robot trading dengan risiko yang ditanggung oleh penggunanya.
+
 1
 ```
 https://www.satprice.live/
