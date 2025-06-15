@@ -1,4 +1,4 @@
-# Belibit
+# Gunung Mas
 # https://www.thewayofcode.com
 # https://mpalmer.heresy.is/webnotes/TheGreatTaking/index.html
 
