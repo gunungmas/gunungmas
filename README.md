@@ -2,7 +2,7 @@
 # https://www.thewayofcode.com
 # https://mpalmer.heresy.is/webnotes/TheGreatTaking/index.html
 
-Sapibot kedepannya melayani robot trading dengan risiko yang ditanggung oleh penggunanya.
+Puncak Lembah kedepannya melayani jasa pengelolaan robot trading dengan risiko yang ditanggung oleh penggunanya.
 
 1
 ```
